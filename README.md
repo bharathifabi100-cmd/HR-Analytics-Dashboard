@@ -27,7 +27,9 @@ This project analyzes employee attrition and performance using SQL, Python, and 
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+<img width="597" height="699" alt="Screenshot 2026-04-29 125816" src="https://github.com/user-attachments/assets/fb3a4b16-71b0-4166-a968-f28d4b9c0353" />
+<img width="598" height="698" alt="Screenshot 2026-04-29 125759" src="https://github.com/user-attachments/assets/19d58e85-1caa-4054-ae2a-063eaea12459" />
+
 
 ## 🚀 How to Use
 
@@ -37,8 +39,10 @@ This project analyzes employee attrition and performance using SQL, Python, and 
 
 ## 📁 Dataset
 
-IBM HR Analytics Dataset (Kaggle)
+HR Analytics Dataset
 
 ## 👨‍💻 Author
 
-Your Name
+A.Bharathi
+bharathiarivu100@gmail.com
+
